@@ -1,0 +1,51 @@
+// 将设置放入此文件中以覆盖默认值和用户设置。
+{
+  "editor.wordWrap": "on",
+  "editor.wrappingIndent": "indent",
+  "editor.minimap.enabled": true,
+  "editor.dragAndDrop": true,
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "vue",
+    "html"
+  ],
+  "editor.formatOnSave": false,
+  "editor.detectIndentation": false,
+  "html.format.extraLiners": "",
+  "html.format.endWithNewline": true,
+  "html.format.indentInnerHtml": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsicons.projectDetection.autoReload": true,
+  "vsicons.presets.angular": false,
+  "less.lint.zeroUnits": "error",
+  "vetur.validation.template": false,
+  "vetur.format.html.wrap_attributes": "force-aligned",
+  "vetur.format.js.InsertSpaceBeforeFunctionParenthesis": true,
+  "beautify.tabSize": 2,
+  "beautify.options": {},
+  "[css]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[less]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  }
+}
