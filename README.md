@@ -16,9 +16,6 @@ npm run build
 
 ```
 
-## 效果图
-![gantt](https://github.com/wuyaoxing/vue-gantt/blob/master/src/assets/gantt.png)
-
 ## gantt功能总结
 
 1. 按钮切换
